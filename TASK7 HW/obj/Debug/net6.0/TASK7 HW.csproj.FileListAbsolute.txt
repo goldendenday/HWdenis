@@ -1,0 +1,15 @@
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\bin\Debug\net6.0\TASK7 HW.exe
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\bin\Debug\net6.0\TASK7 HW.deps.json
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\bin\Debug\net6.0\TASK7 HW.runtimeconfig.json
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\bin\Debug\net6.0\TASK7 HW.dll
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\bin\Debug\net6.0\TASK7 HW.pdb
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\TASK7 HW.csproj.AssemblyReference.cache
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\TASK7 HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\TASK7 HW.AssemblyInfoInputs.cache
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\TASK7 HW.AssemblyInfo.cs
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\TASK7 HW.csproj.CoreCompileInputs.cache
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\TASK7 HW.dll
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\refint\TASK7 HW.dll
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\TASK7 HW.pdb
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\TASK7 HW.genruntimeconfig.cache
+C:\Users\386\OneDrive\Рабочий стол\Seminar 3\TASK7 HW\obj\Debug\net6.0\ref\TASK7 HW.dll
