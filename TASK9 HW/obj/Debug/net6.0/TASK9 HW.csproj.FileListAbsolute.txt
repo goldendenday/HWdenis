@@ -1,0 +1,15 @@
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\bin\Debug\net6.0\TASK9 HW.exe
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\bin\Debug\net6.0\TASK9 HW.deps.json
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\bin\Debug\net6.0\TASK9 HW.runtimeconfig.json
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\bin\Debug\net6.0\TASK9 HW.dll
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\bin\Debug\net6.0\TASK9 HW.pdb
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\TASK9 HW.csproj.AssemblyReference.cache
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\TASK9 HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\TASK9 HW.AssemblyInfoInputs.cache
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\TASK9 HW.AssemblyInfo.cs
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\TASK9 HW.csproj.CoreCompileInputs.cache
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\TASK9 HW.dll
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\refint\TASK9 HW.dll
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\TASK9 HW.pdb
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\TASK9 HW.genruntimeconfig.cache
+C:\Users\386\OneDrive\Рабочий стол\Git Instruction\Seminar 3\TASK9 HW\obj\Debug\net6.0\ref\TASK9 HW.dll
